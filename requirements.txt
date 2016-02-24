@@ -1,0 +1,6 @@
+# Project requirements
+django==1.9.2
+scrapy==1.1.0rc1
+
+djangrestframework
+scrapyd-client
