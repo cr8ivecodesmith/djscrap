@@ -12,8 +12,10 @@ class Base(models.Model):
         abstract = True
 
     def __repr__(self):
-        return '<{self.__class__.__name__}:[{self.id}] {self.name}>'.format(
-            self=self
+        return '<{}:{}@{}>'.format(
+            self.__class__.__name__,
+            self.id,
+            self.name
         )
 
     def __str__(self):
