@@ -4,4 +4,4 @@ __pycache__
 *.tmp
 *.sqlite3
 *.db
-migrations/0*
+webapp/webapp/scrapyd/migrations/0*
