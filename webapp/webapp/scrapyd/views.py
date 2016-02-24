@@ -23,7 +23,7 @@ class JobListApi(ListAPIView):
     max_paginate = 100
 
 
-class JobUpdateApi(ListAPIView):
+class JobUpdateApi(RetrieveUpdateAPIView):
     # Resource: /scrapyd/api/jobs/:spider_id/:job_name.json
     model = Job
     serializer_class = JobSerializer
