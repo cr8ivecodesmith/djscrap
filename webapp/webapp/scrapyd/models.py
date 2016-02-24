@@ -23,6 +23,19 @@ class Base(models.Model):
 class Server(Base):
     url = models.URLField(unique=True)
 
+    def list_projects(self):
+        """Scrapyd api wrapper that lists all available projects in the
+        server.
+
+        """
+        raise NotImplementedError
+
+    def create_projects(self):
+        """Create new projects
+
+        """
+        raise NotImplementedError
+
 
 class Project(Base):
     server = models.ForeignKey(Server)
@@ -30,12 +43,31 @@ class Project(Base):
     class Meta:
         unique_together = ('name', 'server',)
 
+    def list_spiders(self):
+        """Scrapyd api wrapper that lists all available spiders in the
+        server.
+
+        """
+        raise NotImplementedError
+
+    def create_spiders(self):
+        """Create new spiders
+
+        """
+        raise NotImplementedError
+
 
 class Spider(Base):
     project = models.ForeignKey(Project)
 
     class Meta:
         unique_together = ('name', 'project',)
+
+    def schedule_job(self):
+        """Scrapyd api wrapper that schedules a job run for this spider.
+
+        """
+        raise NotImplementedError
 
 
 class Job(Base):
@@ -60,3 +92,9 @@ class Job(Base):
 
     class Meta:
         unique_together = ('name', 'spider',)
+
+    def cancel_job(self):
+        """Scrapyd api wrapper that cancels this job run.
+
+        """
+        raise NotImplementedError
