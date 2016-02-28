@@ -1,0 +1,74 @@
+title,link,desc
+eff-bot's Daily Python URL,http://www.pythonware.com/daily/,"- Contains links to assorted resources from the Python universe, compiled by PythonWare."
+O'Reilly Python Center,http://oreilly.com/python/,"- Features Python books, resources, news and articles."
+Python Developer's Guide,https://www.python.org/dev/,"- Resources for reporting bugs, accessing the Python source tree with CVS and taking part in the development of Python."
+Social Bug,http://win32com.goermezer.de/,"- Scripts, examples and news about Python programming for the Windows platform."
+Core Python Programming,"http://www.pearsonhighered.com/educator/academic/product/0,,0130260363,00%2Ben-USS_01DBC.html","- By Wesley J. Chun; Prentice Hall PTR, 2001, ISBN 0130260363. For experienced developers to improve extant skills; professional level examples. Starts by introducing syntax, objects, error handling, functions, classes, built-ins. [Prentice Hall]"
+Data Structures and Algorithms with Object-Oriented Design Patterns in Python,http://www.brpreiss.com/books/opus7/html/book.html,"- The primary goal of this book is to promote object-oriented design using Python and to illustrate the use of the emerging object-oriented design patterns.
+A secondary goal of the book is to present mathematical tools just in time. Analysis techniques and proofs are presented as needed and in the proper context."
+Dive Into Python 3,http://www.diveintopython.net/,"- By Mark Pilgrim, Guide to Python 3  and its differences from Python 2. Each chapter starts with a real code sample and explains it fully. Has a comprehensive appendix of all the syntactic and semantic changes in Python 3"
+Foundations of Python Network Programming,http://rhodesmill.org/brandon/2011/foundations-of-python-network-programming/,"- This book covers a wide range of topics. From raw TCP and UDP to encryption with TSL, and then to HTTP, SMTP, POP, IMAP, and ssh. It gives you a good understanding of each field and how to do everything on the network with Python."
+Free Python books,http://www.techbooksforfree.com/perlpython.shtml,- Free Python books and tutorials.
+FreeTechBooks: Python Scripting Language,http://www.freetechbooks.com/python-f6.html,- Annotated list of free online books on Python scripting language. Topics range from beginner to advanced.
+How to Think Like a Computer Scientist: Learning with Python,http://greenteapress.com/thinkpython/,"- By Allen B. Downey, Jeffrey Elkner, Chris Meyers; Green Tea Press, 2002, ISBN 0971677506. Teaches general principles of programming, via Python as subject language. Thorough, in-depth approach to many basic and intermediate programming topics. Full text online and downloads: HTML, PDF, PS, LaTeX. [Free, Green Tea Press]"
+An Introduction to Python,http://www.network-theory.co.uk/python/intro/,"- By Guido van Rossum, Fred L. Drake, Jr.; Network Theory Ltd., 2003, ISBN 0954161769. Printed edition of official tutorial, for v2.x, from Python.org. [Network Theory, online]"
+Learn to Program Using Python,http://www.freenetpages.co.uk/hp/alan.gauld/,"- Book by Alan Gauld with full text online. Introduction for those learning programming basics: terminology, concepts, methods to write code. Assumes no prior knowledge but basic computer skills."
+Making Use of Python,http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471219754.html,"- By Rashi Gupta; John Wiley and Sons, 2002, ISBN 0471219754. Covers language basics, use for CGI scripting, GUI development, network programming; shows why it is one of more sophisticated of popular scripting languages. [Wiley]"
+Practical Python,http://hetland.org/writing/practical-python/,"- By Magnus Lie Hetland; Apress LP, 2002, ISBN 1590590066. Readable guide to ideas most vital to new users, from basics common to high level languages, to more specific aspects, to a series of 10 ever more complex programs. [Apress]"
+Pro Python System Administration,http://sysadminpy.com/,"- By Rytis Sileika, ISBN13: 978-1-4302-2605-5, Uses real-world system administration examples like manage devices with SNMP and SOAP, build a distributed monitoring system, manage web applications and parse complex log files, monitor and manage MySQL databases."
+Programming in Python 3 (Second Edition),http://www.qtrac.eu/py3book.html,- A Complete Introduction to the Python 3.
+Python 2.1 Bible,http://www.wiley.com/WileyCDA/WileyTitle/productCd-0764548077.html,"- By Dave Brueck, Stephen Tanner; John Wiley and Sons, 2001, ISBN 0764548077. Full coverage, clear explanations, hands-on examples, full language reference; shows step by step how to use components, assemble them, form full-featured programs. [John Wiley and Sons]"
+Python 3 Object Oriented Programming,https://www.packtpub.com/python-3-object-oriented-programming/book,"- A step-by-step tutorial for OOP in Python 3, including discussion and examples of abstraction, encapsulation, information hiding, and raise, handle, define, and manipulate exceptions."
+Python Language Reference Manual,http://www.network-theory.co.uk/python/language/,"- By Guido van Rossum, Fred L. Drake, Jr.; Network Theory Ltd., 2003, ISBN 0954161785. Printed edition of official language reference, for v2.x, from Python.org, describes syntax, built-in datatypes. [Network Theory, online]"
+Python Programming Patterns,"http://www.pearsonhighered.com/educator/academic/product/0,,0130409561,00%2Ben-USS_01DBC.html","- By Thomas W. Christopher; Prentice Hall PTR, 2002, ISBN 0130409561. Shows how to write large programs, introduces powerful design patterns that deliver high levels of robustness, scalability, reuse."
+Python Programming with the Java Class Libraries: A Tutorial for Building Web and Enterprise Applications with Jython,http://www.informit.com/store/product.aspx?isbn=0201616165&redir=1,"- By Richard Hightower; Addison-Wesley, 2002, 0201616165. Begins with Python basics, many exercises, interactive sessions. Shows programming novices concepts and practical methods. Shows programming experts Python's abilities and ways to interface with Java APIs. [publisher website]"
+Python: Visual QuickStart Guide,"http://www.pearsonhighered.com/educator/academic/product/0,,0201748843,00%2Ben-USS_01DBC.html","- By Chris Fehily; Peachpit Press, 2002, ISBN 0201748843. Task-based, step-by-step visual reference guide, many screen shots, for courses in digital graphics; Web design, scripting, development; multimedia, page layout, office tools, operating systems. [Prentice Hall]"
+Sams Teach Yourself Python in 24 Hours,http://www.informit.com/store/product.aspx?isbn=0672317354,"- By Ivan Van Laningham; Sams Publishing, 2000, ISBN 0672317354. Split into 24 hands-on, 1 hour lessons; steps needed to learn topic: syntax, language features, OO design and programming, GUIs (Tkinter), system administration, CGI. [Sams Publishing]"
+Text Processing in Python,http://gnosis.cx/TPiP/,"- By David Mertz; Addison Wesley. Book in progress, full text, ASCII format. Asks for feedback. [author website, Gnosis Software, Inc.]"
+XML Processing with Python,http://www.informit.com/store/product.aspx?isbn=0130211192,"- By Sean McGrath; Prentice Hall PTR, 2000, ISBN 0130211192, has CD-ROM. Methods to build XML applications fast, Python tutorial, DOM and SAX, new Pyxie open source XML processing library. [Prentice Hall PTR]"
+The Ruby Programming Language,http://www.informit.com/articles/article.aspx?p=18225&redir=1,"- Very clear introductory article by Ruby creator Yukihiro ""Matz"" Matsumoto. [InformIT]"
+Ruby: A Gem of a Language,http://www.ibm.com/developerworks/rational/library/jul07/pollice/,"- First of 4-part series introduces Ruby programming, begins with variables, quotes, arrays, objects, methods. Later parts treat more advanced topics. By Joshua Drake, author of Linux books and co-founder of Command Prompt, Inc. [IBM developerWorks]
+                                 (July 15, 2007)"
+Using the Ruby MySQL Module,http://www.kitebird.com/articles/ruby-mysql.html,"- Article describes how to install the Tomita Masahiro's MySQL module and use it to write MySQL-based Ruby scripts. By Paul DuBois.
+                                 (November 28, 2006)"
+Yukihiro 'Matz' Matsumoto: Ruby Design Principles,http://www.itconversations.com/shows/detail1638.html,"- What makes a good programming language? It helps human thoughts, helps us think better, and makes us better programmers. Interview with brief summary, MP3 download. IT Conversations.
+                                 (October 18, 2006)"
+Making Waves in the Ruby World,http://www.linuxjournal.com/node/1000085/,"- Three Ruby projects stand out (JRuby, Mongrel, Ruport) not so much for development, but for communicating well, something many projects do less well. Linux Journal.
+                                 (August 24, 2006)"
+"Obie, Has It Been 9 Years Already?",http://jroller.com/page/obie?entry=matz_roundtable_notes,"- Matz Roundtable Notes from Friday night at RubyConf 2005, as questions and answers. [Obie Fernandez Weblog]
+                                 (October 15, 2005)"
+Using MySQL with Ruby,http://www.kitebird.com/articles/,"- By Paul DuBois. Two parts: Using the Ruby MySQL Module, Using the Ruby DBI Module. HTML, PDF; online, downloads (tar, zip). [Kitebird.com]
+                                 (January 19, 2003)"
+A Joyful Gem,http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-talk/56614,"- By Rick Wayne. Short positive review, with code samples. Full text, in an email; to see it on magazine website one must register. [Software Development]
+                                 (November 25, 2002)"
+Delightful Languages: Ruby,http://www.theperlreview.com/Issues/The_Perl_Review_0_6.pdf,"- Medium length positive review, with code samples, references. [The Perl Review]
+                                 [PDF] (November 01, 2002)"
+Ruby: Productive Programming Language,http://www.linuxjournal.com/article/5915,"- Short positive overview, explains Ruby by comparing with some other languages; focus on production; code samples, forum with many comments. [Linux Journal]
+                                 (March 20, 2002)"
+Why You Might Want to Try Ruby,http://freecode.com/articles/why-you-might-want-to-try-ruby,"- Editorial with description and code; resulting forum comments and discussion of mostly positive opinion. [freshmeat.net]
+                                 (January 05, 2002)"
+Ruby Creator Y. Matsumoto,http://www.stephenibaraki.com/rubycreater122101.htm,"- Interview with Matz, explains motives and early history, job duties, 10 top tips for those going into computing, focus on the human. [CIPS Connections]
+                                 (December 21, 2001)"
+Interview with the Creator of Ruby,http://slashdot.org/developers/01/12/01/0110233.shtml,"- Forum comments and discussion related to Ruby and O'Reilly guide 'Ruby in a Nutshell'; diverse opinions, many positive remarks. [Slashdot.org]
+                                 (December 01, 2001)"
+Design Patterns in Ruby,http://safari.awprofessional.com/9780321490452/,"- By Russ Olsen; Addison-Wesley Professional, 2007, ISBN 9780321490452. Shows smart ways to solve many problems Ruby developers often find; classic patterns plus newer ones with special Ruby value."
+Making Use of Ruby,http://www.wiley.com/WileyCDA/WileyTitle/productCd-047121972X.html,"- By Suresh Mahadevan; John Wiley and Sons, 2002, ISBN 047121972X. Hands-on full introduction, how to save much time, many real-world examples, how to move beyond examples to specific tasks, end-of-chapter reviews, exercises."
+Programming Ruby: Ruby Tuesday,http://www.amazon.com/exec/obidos/tg/feature/-/99126/,"- Interview with Programming Ruby authors, The Pragmatic Programmers. Amazon.com."
+Ruby Cookbook,http://oreilly.com/catalog/9780596523695/,"- By Lucas Carlson, Leonard Richardson; O'Reilly, 2006, ISBN 0596523696. From data structures to algorithms to integrating with new technologies; when solving a problem, don't reinvent the wheel: look it up in here. O'Reilly Media."
+Ruby In A Nutshell,http://oreilly.com/catalog/9780596002145/,"- By Yukihiro ""Matz"" Matsumoto; O'Reilly and Associates, 2001, ISBN 0596002149. By programmer, and Ruby creator; concise broad reference guide assumes reader knows programming. [O'Reilly and Associates]"
+The Ruby Programming Language,http://www.oreilly.com/catalog/9780596516178/,"- David Flanagan, Yukihiro Matz Matsumoto, why the lucky stiff; O'Reilly Media, 2008, ISBN 9780596516178. Authoritative guide, covers versions 1.9, 1.8; shows Ruby's lexical structure, primary expressions, conditionals, syntax, classes, data they manipulate."
+The Ruby Way: What is Ruby?,http://www.samspublishing.com/articles/article.asp?p=27359&rl=1,"- Brief article explains main aspects, by Hal Fulton."
+An Interview with the Creator of Ruby,http://www.linuxdevcenter.com/pub/a/linux/2001/11/29/ruby.html,"- Yukihiro ""Matz"" Matsumoto, discusses Ruby and O'Reilly guide 'Ruby in a Nutshell'. [O'Reilly Network]
+                                 (November 29, 2001)"
+An Introduction to Ruby,http://www.linuxdevcenter.com/pub/a/linux/2001/10/25/ruby.html,"- Explains that the world can use another language for the simple reason that Ruby makes programming fun again, and that's what counts. Introduction via examining high-level Ruby traits, and distinguishing traits. [O'Reilly Network]
+                                 (October 25, 2001)"
+Programming in the Ruby Language,http://slashdot.org/developers/01/08/11/2211254.shtml,"- Forum comments and discussion related to July IBM developerWorks Ruby article, with the usual diversity of opinion, much of it positive. [Slashdot.org]
+                                 (August 11, 2001)"
+Why Not Ruby?,http://slashdot.org/developers/01/07/08/1955209.shtml,"- Forum comments and discussion, with wide diversity of opinion, much of it positive. [Slashdot.org]
+                                 (July 08, 2001)"
+Programming Ruby,http://books.slashdot.org/article.pl?sid=01/03/25/1624239,"- Forum comments and discussion on Ruby and the book 'Programming Ruby: The Pragmatic Programmer's Guide'; diverse opinions, many positive remarks. [Slashdot.org]
+                                 (April 17, 2001)"
+Programming in Ruby,http://www.ddj.com/web-development/184404436,"- Take the pure object orientation of Smalltalk, remove the quirky syntax and reliance on a workspace. Add the convenience and power of Perl, but without the special cases and magic conversions. Give it a clean syntax based partly on Eiffel, add a few concepts from Scheme, CLU, Sather, Common Lisp. [Dr. Dobb's Journal]
+                                 (January 01, 2001)"
+Ruby-lang.org Opens Online!,http://linuxtoday.com/news_story.php3?ltsn=1999-10-29-004-04-NW,"- Announcement of Ruby-lang domain and website. [Linux Today]
+                                 (October 29, 1999)"
